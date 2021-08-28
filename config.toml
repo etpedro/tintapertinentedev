@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://tintapertinente-dev.netlify.app"
 languageCode = "en-us"
 title = "Tinta Pertinente"
 theme = "noteworthy"
