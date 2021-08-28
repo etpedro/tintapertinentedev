@@ -1,10 +1,11 @@
-baseURL = "https://example.com"
+baseURL = "https://tintapertinente-dev.netlify.app"
 languageCode = "en-us"
-title = "Noteworthy"
+title = "Tinta Pertinente"
 theme = "noteworthy"
 enableRobotsTXT = true
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
+ignoreErrors = ["error-remote-getjson"]
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = ""
@@ -35,18 +36,18 @@ disqusShortname = ""
 
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main
-    email = "#"
-    facebook = "#"
-    twitter = "#"
-    instagram = "#"
-    tumblr = "#"
-    reddit = "#"
-    pinterest = "#"
-    youtube = "#"
-    vimeo = "#"
-    weibo = "#"
-    vk = "#"
-    linkedin = "#"
+    #email = "#"
+    #facebook = "#"
+    #twitter = "#"
+    #instagram = "#"
+    #tumblr = "#"
+    #reddit = "#"
+    #pinterest = "#"
+    #youtube = "#"
+    #vimeo = "#"
+    #weibo = "#"
+    #vk = "#"
+    #linkedin = "#"
 
     # Writing
     medium = "#"
